@@ -1,0 +1,16 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# December 2023 
+# 
+# Creator:  Radhika Sahai, Brandon Robello, Curtis Wu
+# Date Created: December 13, 2023
+# Directory Path: Chem274B_Final_Project/Lib
+
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(no subdirectories)
+
+LIST OF FILES IN THIS DIRECTORY:
+- README: (this file) contains general information of this directory
+
+- libmyCA.a the object lib for the general purpose cellular atomata

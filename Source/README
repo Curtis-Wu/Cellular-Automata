@@ -1,0 +1,18 @@
+# University of California, Berkeley
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# September 2022 
+# 
+# Creator:  Radhika Sahai, Brandon Robello, Curtis Wu
+# Date Created: December 13, 2023
+# Directory Path: Chem274B_Final_Project/Soucre
+
+
+LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
+(src)
+
+LIST OF FILES IN THIS DIRECTORY:
+- Cell.cpp: the implementations of the methods of the Cell Class declared in myCA.h
+- CellularAutomata.cpp: the implementations of the methods of the CellularAutomata Class declared in myCA.h
+- Makefile: Utility targets for the cpp files above to compile an archive
+- README: (this file) contains general information of this directory
+
