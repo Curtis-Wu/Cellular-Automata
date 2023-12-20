@@ -1,12 +1,8 @@
-# Chem274B_Final_Project
-# Chem274B Final Project - Cellular Automata
-# University of California, Berkeley
-# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
-# December 2023
-## Project: Chem274B_Final_Project
-## Contributors: Radhika Sahai, Brandon Robello, Curtis Wu
-## Date Created: December 13, 2023
-## Directory Path: Chem274B_Final_Project
+# Cellular Automata Implementation using C++
+**University of California, Berkeley, December 2023**<br>
+**Contributors: Radhika Sahai, Brandon Robello, Curtis Wu**<br>
+**Date Created: December 13, 2023**<br>
+
 This project is a comprehensive simulation and analysis tool for Cellular Automata. It includes a detailed implementation of a Cellular Automata framework with support for multiple rules and states, and a specific application for modeling COVID-19 spread.
 
 Directory Structure Overview
